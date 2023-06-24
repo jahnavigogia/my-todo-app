@@ -2,8 +2,6 @@ help
 win
 swing
 study
-hi
 watch
-Clean the bagFix the lamp
-Fix the 
-
+Clean the bag
+Fix the lamp
