@@ -1,4 +1,4 @@
-# To-Do App using streamlit library.
+# To-Do App using python Streamlit library.
 ## User can add new todos, delete existing todos.
 A to-do can be deleted by ticking the ceckbox next to the todo you want to delete.
 
